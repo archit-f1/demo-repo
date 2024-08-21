@@ -1,2 +1,2 @@
 # Demo
-This a demo readme file in my journey to learn github
+This a demo readme file in my journey to learn GitHub
